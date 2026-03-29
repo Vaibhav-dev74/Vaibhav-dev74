@@ -148,8 +148,7 @@ Smart IoT dustbin capable of **automatic waste detection and segregation**.
 ---
 
 # 📜 Certifications
-
-✔ Full Stack Developer — Bharat Intern  
+ 
 ✔ Data Analytics — IBM SkillsBuild CSRBOX  
 ✔ Python Programming, AI & SAP Chatbot — Edunet Foundation  
 ✔ TalentBattle Python Certificate (2025)
