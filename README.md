@@ -15,7 +15,7 @@
 
 🎓 **Final Year Computer Engineering Student**  
 📍 Lokmanya Tilak College of Engineering (LTCE)  
-📊 CGPA: **7.10 (Till Sem 7)**  
+📊 CGPA: **7.15**  
 
 💡 Passionate about:
 
