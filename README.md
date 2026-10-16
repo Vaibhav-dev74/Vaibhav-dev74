@@ -1,183 +1,222 @@
-<!-- HEADER -->
-<h1 align="center">Hi 👋, I'm Vaibhav Pratap Mishra</h1>
+# 👋 Hi, I'm Vaibhav Pratap Mishra
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=00C2FF&center=true&vCenter=true&width=800&lines=Computer+Engineering+Student;Full+Stack+Developer;IoT+Enthusiast;Building+Real+World+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Computer+Engineering+Graduate;Aspiring+AI+Engineer;Full+Stack+Developer;Python+%7C+AI+%7C+IoT;Building+Real-World+Solutions" alt="Typing SVG" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Vaibhav-dev74&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  <a href="https://github.com/Vaibhav-dev74">
+    <img src="https://komarev.com/ghpvc/?username=Vaibhav-dev74&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://portfolio-sepia-ten-20.vercel.app/">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/vaibhav-pratap-mishra-b417ab2b6/">LinkedIn</a> •
+  <a href="mailto:mishravaibhavpratap@gmail.com">Email Me</a>
 </p>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-🎓 **Final Year Computer Engineering Student**  
-📍 Lokmanya Tilak College of Engineering (LTCE)  
-📊 CGPA: **7.15**  
+🎓 Recently completed my **B.E. in Computer Engineering** from Lokmanya Tilak College of Engineering (LTCE), Mumbai University.
 
-💡 Passionate about:
+💻 Aspiring **AI Engineer and Full Stack Developer** passionate about building practical, intelligent, and user-focused applications.
 
-- Full Stack Web Development  
-- IoT Systems  
-- Artificial Intelligence Applications  
-- Building real-world impactful tech solutions  
+- 🤖 Exploring Artificial Intelligence, Generative AI, and AI-powered applications.
+- 🌐 Developing full-stack web applications using the MERN stack.
+- 🐍 Working with Python, SQL, APIs, and data analytics.
+- 🔌 Interested in IoT, robotics, and computer vision.
+- 👨‍💻 Former Secretary of the Coding Club at LTCE (2024–2025).
+- 🏆 Earned 1st Consolation Prize (Rank 4) at Tantragyan 2026 for the TrashBot project.
 
-👨‍💼 **Secretary – Coding Club (2024–2025)**
-
----
-
-# 🌐 Portfolio
-
-💼 Check out my personal portfolio website:
-
-🔗 **Portfolio Website**  
-https://portfolio-sepia-ten-20.vercel.app/
+💡 **My goal:** To build impactful technology that solves real-world problems and continuously grow as an AI and software engineering professional.
 
 ---
 
-# 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,js" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js" alt="Programming Languages" />
 </p>
 
 ### 🌐 Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nodejs,express" alt="Web Development" />
 </p>
 
-### 🗄 Databases
+### 🗄️ Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" alt="Databases" />
 </p>
 
-### ⚙ Tools & Platforms
+### 🤖 AI, Data & Computer Vision
+
+- Python, Flask, OpenCV, YOLO
+- Generative AI and LLM-powered applications
+- AI agents and image-based AI workflows
+- Data Analytics, Power BI, and SQL
+- REST APIs and application integration
+
+### ⚙️ Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,vercel,postman" alt="Tools and Platforms" />
 </p>
 
----
+### 🔌 IoT & Hardware
 
-# 📂 Featured Projects
-
-## 🌐 LTCE Computer Department Website
-
-Developed a **college department website** with ERP ID based login system for accessing study materials and faculty resources.
-
-**Tech Stack**
-
-HTML • CSS • JavaScript
-
-🔗 Live Website  
-https://ltcecomputerdepartment.netlify.app/
+- Raspberry Pi
+- ESP32-CAM
+- Sensors and servo motors
+- Robotics and smart monitoring systems
 
 ---
 
-## 📷 QR Code Based Attendance System
+## 🌟 Featured Projects
 
-Automated student attendance system using **QR code scanning and geo-fencing**.
+### 🤖 IntelliResume AI — Resume Intelligence & Job Matching
 
-### Features
+AI-powered platform focused on resume analysis and matching candidate profiles with job opportunities.
 
-- QR code attendance  
-- Geo-location verification  
-- Automatic attendance logging  
+- Designed to support smarter resume evaluation and job matching.
+- Web-based interface deployed on Vercel.
+
+🔗 **[Live Demo](https://ai-resume-intelligence-job-matching.vercel.app/)**
+
+### 🏠 AI Home Renovation Planner
+
+An AI-powered renovation assistant designed to help users explore interior design ideas using room images and inspiration references.
+
+- Focuses on AI-assisted renovation and interior design workflows.
+- Explores agent-based assistance for renovation planning.
+
+🔗 **[GitHub Repository](https://github.com/Vaibhav-dev74/Home_Renovation)**
+
+### 🍽️ RestoAI
+
+An AI-powered web project focused on delivering an intelligent, user-friendly experience for restaurant-related workflows.
+
+🔗 **[Live Demo](https://resto-ai-ten.vercel.app/)**
+
+### 🛍️ Trendhive
+
+A web application project focused on a modern shopping and browsing experience.
+
+🔗 **[Live Demo](https://trendhive-rf2j.vercel.app/)**
+
+### 🥗 AI-Powered Food Scanner
+
+A Python and Flask-based application that explores food information and nutritional analysis through integrated data sources and AI capabilities.
+
+- Integrates food-related APIs and AI-powered assistance.
+- Built around accessible food and nutrition information.
+
+🔗 **[Live Demo](https://food-scanner-v2-seven.vercel.app/)**
+
+### 🗑️ TrashBot — App-Driven Robotic Dustbin
+
+An IoT and robotics project designed to automate waste handling and segregation.
+
+- Combines Raspberry Pi, sensors, a robotic arm, and AI-based waste recognition.
+- Aims to improve waste management through automated sorting and app-based monitoring.
+- Won **1st Consolation Prize (Rank 4)** at Tantragyan 2026, a national-level project competition at LTCE, among 65+ participants.
+
+**Technologies:** Python, Raspberry Pi, sensors, computer vision, robotics.
+
+### 👓 Smart Glasses for Visually Impaired People
+
+An assistive technology project designed to support object awareness and navigation.
+
+- Uses YOLO-based object detection.
+- Explores ESP32-CAM image capture and voice feedback.
+- Integrates Bluetooth audio and Android navigation concepts.
+
+**Technologies:** Python, YOLO, ESP32-CAM, computer vision, IoT.
+
+### 🌐 LTCE Computer Department Website
+
+Contributed to the development of the college Computer Department website, including an ERP ID-based login system for accessing study materials and faculty resources.
+
+🔗 **[Live Website](https://ltcecomputerdepartment.netlify.app/)**
 
 ---
 
-## 👓 Smart Glass for Blind People
+## 💼 Internship Experience
 
-IoT based smart glasses designed to assist visually impaired people.
+### Python Developer Intern — CodeSprint Technologies
 
-### Features
-
-- Object detection using **YOLO**
-- Image capture using **ESP32-CAM**
-- Voice feedback via **Bluetooth**
-- Android navigation with **Google Maps**
-
----
-
-## 🗑 TrashBot – App Driven Robotic Dustbin (Ongoing)
-
-Smart IoT dustbin capable of **automatic waste detection and segregation**.
-
-### Technologies
-
-- Raspberry Pi  
-- Python  
-- Sensors  
-- Mobile monitoring application  
-
----
-
-# 💼 Internship Experience
-
-### Python Developer Intern — CodeSprint  
 📅 June 2024 – August 2024
 
-- Developed automation scripts using Python  
-- Built applications using Python libraries  
-- Worked on data analysis tasks  
+- Developed Python scripts for automation and practical programming tasks.
+- Worked with Python libraries and data analysis workflows.
+- Strengthened problem-solving and software development skills.
 
----
+### IBM SkillsBuild Summer Internship
 
-### IBM SkillsBuild Summer Internship  
 📅 June – August 2024
 
-- Worked on **IoT based TrashBot system**
-- Completed masterclasses on **Data Analytics**
-- Learned **data-driven decision making**
+- Participated in learning activities involving IoT and data analytics.
+- Explored data-driven problem-solving and technical concepts.
+- Gained exposure to practical technology applications.
 
 ---
 
-# 🏆 Achievements
+## 🏆 Achievements & Leadership
 
-🏅 Letter of appreciation for contribution to  
-**LTCE Computer Department Website Project**
-
-👨‍💼 **Secretary – Coding Club (2024–25)**
-
----
-
-# 📜 Certifications
- 
-✔ Data Analytics — IBM SkillsBuild CSRBOX  
-✔ Python Programming, AI & SAP Chatbot — Edunet Foundation  
-✔ TalentBattle Python Certificate (2025)
+- 🥇 **1st Consolation Prize (Rank 4)** — Tantragyan 2026 National-Level Project Competition for TrashBot.
+- 🏅 Received a letter of appreciation for contributions to the LTCE Computer Department Website Project.
+- 👨‍💼 Served as **Secretary of the Coding Club at LTCE (2024–2025)**.
+- 🤝 Participated in collaborative technical projects and peer learning activities.
 
 ---
 
-# 📊 GitHub Stats
+## 📜 Certifications
+
+- Data Analytics — IBM SkillsBuild CSRBOX
+- Python Programming, Artificial Intelligence & SAP Conversational AI Chatbot — Edunet Foundation
+- Full Stack Developer — Bharat Intern
+- Python Certificate — Talent Battle (2025)
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Vaibhav-dev74&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav-dev74&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vaibhav-dev74&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhav-dev74&theme=tokyonight"/>
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhav-dev74&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
 
 ---
 
-# 🌐 Connect With Me
+## 🤝 Let's Connect
 
-📧 Email  
-mishravaibhavpratap@gmail.com  
+I'm always interested in connecting with developers, collaborating on meaningful projects, and exploring opportunities in AI engineering and software development.
 
-🔗 LinkedIn  
-https://www.linkedin.com/in/vaibhav-pratap-mishra  
+<p align="center">
+  <a href="https://www.linkedin.com/in/vaibhav-pratap-mishra-b417ab2b6/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Vaibhav-dev74">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://portfolio-sepia-ten-20.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-00C2FF?style=for-the-badge&logo=vercel" alt="Portfolio" />
+  </a>
+  <a href="mailto:mishravaibhavpratap@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+</p>
 
-💻 GitHub  
-https://github.com/Vaibhav-dev74  
-
-🌐 Portfolio  
-https://portfolio-sepia-ten-20.vercel.app/
-
+<p align="center">
+  💻 Code. 🤖 Innovate. 🚀 Build. Repeat.
+</p>
