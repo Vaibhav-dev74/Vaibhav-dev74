@@ -209,7 +209,7 @@ I'm always interested in connecting with developers, collaborating on meaningful
   <a href="https://github.com/Vaibhav-dev74">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-  <a href="https://portfolio-sepia-ten-20.vercel.app/">
+  <a href="https://vaibhav-pratap-mishra.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit-00C2FF?style=for-the-badge&logo=vercel" alt="Portfolio" />
   </a>
   <a href="mailto:mishravaibhavpratap@gmail.com">
