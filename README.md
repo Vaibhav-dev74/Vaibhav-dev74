@@ -1,7 +1,8 @@
+
 # 👋 Hi, I'm Vaibhav Pratap Mishra
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Computer+Engineering+Graduate;Aspiring+AI+Engineer;Full+Stack+Developer;Python+%7C+AI+%7C+IoT;Building+Real-World+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Computer+Engineering+Graduate;Aspiring+AI+Engineer;Python+Developer;Full+Stack+Developer;AI+%7C+IoT+%7C+Computer+Vision;Building+Real-World+Solutions" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -11,31 +12,36 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio-sepia-ten-20.vercel.app/">Portfolio</a> •
+  <a href="https://vaibhav-pratap-mishra.vercel.app">Portfolio</a> •
   <a href="https://www.linkedin.com/in/vaibhav-pratap-mishra-b417ab2b6/">LinkedIn</a> •
-  <a href="mailto:mishravaibhavpratap@gmail.com">Email Me</a>
+  <a href="mailto:mishravaibhavpratap@gmail.com">Email</a> •
+  <a href="https://github.com/Vaibhav-dev74">GitHub</a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-🎓 Recently completed my **B.E. in Computer Engineering** from Lokmanya Tilak College of Engineering (LTCE), Mumbai University.
+🎓 Computer Engineering Graduate from **Lokmanya Tilak College of Engineering (LTCE), Mumbai University**.
 
-💻 Aspiring **AI Engineer and Full Stack Developer** passionate about building practical, intelligent, and user-focused applications.
+💻 Aspiring **AI Engineer and Full Stack Developer** passionate about building intelligent applications, scalable web solutions, and technology-driven products.
 
-- 🤖 Exploring Artificial Intelligence, Generative AI, and AI-powered applications.
-- 🌐 Developing full-stack web applications using the MERN stack.
-- 🐍 Working with Python, SQL, APIs, and data analytics.
-- 🔌 Interested in IoT, robotics, and computer vision.
+- 🤖 Exploring Artificial Intelligence, Generative AI, LLMs, and AI-powered applications.
+- 🐍 Developing applications and automation solutions using Python and Flask.
+- 🌐 Building full-stack web applications using the MERN stack.
+- 🧠 Interested in AI Agents, Computer Vision, and intelligent automation.
+- 📊 Working with SQL, Data Analytics, and Power BI.
+- 🔌 Exploring IoT, Raspberry Pi, ESP32-CAM, and robotics.
 - 👨‍💻 Former Secretary of the Coding Club at LTCE (2024–2025).
-- 🏆 Earned 1st Consolation Prize (Rank 4) at Tantragyan 2026 for the TrashBot project.
+- 🏆 Secured **1st Consolation Prize (Rank 4)** at Tantragyan 2026 for the TrashBot project.
 
-💡 **My goal:** To build impactful technology that solves real-world problems and continuously grow as an AI and software engineering professional.
+💡 **My Mission:** To develop impactful software and AI solutions that solve real-world problems while continuously growing as a technology professional.
+
+🌐 **Portfolio:** https://vaibhav-pratap-mishra.vercel.app/
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
 ### 💻 Programming Languages
 
@@ -55,13 +61,16 @@
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" alt="Databases" />
 </p>
 
-### 🤖 AI, Data & Computer Vision
+### 🤖 Artificial Intelligence & Data
 
 - Python, Flask, OpenCV, YOLO
 - Generative AI and LLM-powered applications
-- AI agents and image-based AI workflows
-- Data Analytics, Power BI, and SQL
-- REST APIs and application integration
+- AI Agents and intelligent automation
+- Computer Vision and image processing
+- AI-powered application development
+- Data Analytics and Power BI
+- SQL and data processing
+- REST APIs and third-party integrations
 
 ### ⚙️ Tools & Platforms
 
@@ -69,119 +78,173 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,vercel,postman" alt="Tools and Platforms" />
 </p>
 
-### 🔌 IoT & Hardware
+### 🔌 IoT & Robotics
 
 - Raspberry Pi
 - ESP32-CAM
 - Sensors and servo motors
-- Robotics and smart monitoring systems
+- Robotics and automation
+- Smart monitoring systems
+- Hardware-software integration
 
 ---
 
 ## 🌟 Featured Projects
 
-### 🤖 IntelliResume AI — Resume Intelligence & Job Matching
+### 🤖 1. IntelliResume AI — Resume Intelligence & Job Matching System
 
-AI-powered platform focused on resume analysis and matching candidate profiles with job opportunities.
+An AI-powered platform designed to analyze resumes and match candidate profiles with relevant job opportunities.
 
-- Designed to support smarter resume evaluation and job matching.
-- Web-based interface deployed on Vercel.
+**Key Features:**
+- Resume analysis and intelligent evaluation.
+- Candidate profile and job matching workflows.
+- AI-assisted recruitment support.
+- Web-based user interface.
 
-🔗 **[Live Demo](https://ai-resume-intelligence-job-matching.vercel.app/)**
+**Technologies:** Python, AI, Machine Learning, NLP, Web Technologies.
 
-### 🏠 AI Home Renovation Planner
+🔗 **Live Demo:** [IntelliResume AI](https://ai-resume-intelligence-job-matching.vercel.app/)
+
+---
+
+### 🏠 2. AI Home Renovation Planner
 
 An AI-powered renovation assistant designed to help users explore interior design ideas using room images and inspiration references.
 
-- Focuses on AI-assisted renovation and interior design workflows.
-- Explores agent-based assistance for renovation planning.
+**Key Features:**
+- AI-assisted interior design workflows.
+- Image-based renovation assistance.
+- Agent-based planning concepts.
+- AI integration for personalized renovation ideas.
 
-🔗 **[GitHub Repository](https://github.com/Vaibhav-dev74/Home_Renovation)**
+**Technologies:** Python, Google ADK, Gemini API, AI Agents.
 
-### 🍽️ RestoAI
+🔗 **GitHub Repository:** [Home Renovation](https://github.com/Vaibhav-dev74/Home_Renovation)
 
-An AI-powered web project focused on delivering an intelligent, user-friendly experience for restaurant-related workflows.
+---
 
-🔗 **[Live Demo](https://resto-ai-ten.vercel.app/)**
+### 🍽️ 3. RestoAI
 
-### 🛍️ Trendhive
+An AI-powered web application focused on delivering intelligent and user-friendly restaurant-related workflows.
 
-A web application project focused on a modern shopping and browsing experience.
+**Technologies:** AI Integration, Web Development, APIs.
 
-🔗 **[Live Demo](https://trendhive-rf2j.vercel.app/)**
+🔗 **Live Demo:** [RestoAI](https://resto-ai-ten.vercel.app/)
 
-### 🥗 AI-Powered Food Scanner
+---
 
-A Python and Flask-based application that explores food information and nutritional analysis through integrated data sources and AI capabilities.
+### 🛍️ 4. Trendhive
 
-- Integrates food-related APIs and AI-powered assistance.
-- Built around accessible food and nutrition information.
+A modern web application designed to provide users with a smooth shopping and product-browsing experience.
 
-🔗 **[Live Demo](https://food-scanner-v2-seven.vercel.app/)**
+**Technologies:** React, JavaScript, Web Development.
 
-### 🗑️ TrashBot — App-Driven Robotic Dustbin
+🔗 **Live Demo:** [Trendhive](https://trendhive-rf2j.vercel.app/)
 
-An IoT and robotics project designed to automate waste handling and segregation.
+---
 
-- Combines Raspberry Pi, sensors, a robotic arm, and AI-based waste recognition.
-- Aims to improve waste management through automated sorting and app-based monitoring.
-- Won **1st Consolation Prize (Rank 4)** at Tantragyan 2026, a national-level project competition at LTCE, among 65+ participants.
+### 🥗 5. AI-Powered Food Scanner
 
-**Technologies:** Python, Raspberry Pi, sensors, computer vision, robotics.
+A Python and Flask-based application that explores food information and nutritional analysis through integrated APIs and AI capabilities.
 
-### 👓 Smart Glasses for Visually Impaired People
+**Key Features:**
+- Food-related information retrieval.
+- API integration for nutritional data.
+- AI-powered assistance.
+- User-friendly web interface.
 
-An assistive technology project designed to support object awareness and navigation.
+**Technologies:** Python, Flask, REST APIs, AI Integration.
 
-- Uses YOLO-based object detection.
-- Explores ESP32-CAM image capture and voice feedback.
-- Integrates Bluetooth audio and Android navigation concepts.
+🔗 **Live Demo:** [Food Scanner](https://food-scanner-v2-seven.vercel.app/)
 
-**Technologies:** Python, YOLO, ESP32-CAM, computer vision, IoT.
+---
 
-### 🌐 LTCE Computer Department Website
+### 🗑️ 6. TrashBot — App-Driven Robotic Dustbin
 
-Contributed to the development of the college Computer Department website, including an ERP ID-based login system for accessing study materials and faculty resources.
+An IoT, AI, and robotics-based project designed to automate waste handling and segregation.
 
-🔗 **[Live Website](https://ltcecomputerdepartment.netlify.app/)**
+**Key Features:**
+- Automated waste handling and segregation.
+- Camera-based waste recognition.
+- Raspberry Pi-controlled robotic arm.
+- Sensor-based monitoring and automation.
+- Mobile application for monitoring and engagement.
+- Reward-based waste management concept.
+
+**Technologies:** Python, Raspberry Pi, OpenCV, TensorFlow, Kotlin, Spring Boot, PostgreSQL, IoT, Robotics.
+
+🏆 **Achievement:** Secured 1st Consolation Prize (Rank 4) at **Tantragyan 2026 National-Level Project Competition**, LTCE, among 65+ participants.
+
+---
+
+### 👓 7. Smart Glasses for Visually Impaired People
+
+An assistive technology project designed to improve object awareness and support navigation for visually impaired users.
+
+**Key Features:**
+- YOLO-based object detection.
+- ESP32-CAM image capture.
+- Voice-based feedback.
+- Bluetooth audio integration.
+- Android navigation concepts.
+
+**Technologies:** Python, YOLO, ESP32-CAM, Computer Vision, IoT.
+
+---
+
+### 🌐 8. LTCE Computer Department Website
+
+Contributed to the development of the college Computer Department website.
+
+**Key Features:**
+- ERP ID-based login system.
+- Access to study materials.
+- Faculty resource access.
+- Department-focused web interface.
+
+🔗 **Live Website:** [LTCE Computer Department](https://ltcecomputerdepartment.netlify.app/)
 
 ---
 
 ## 💼 Internship Experience
 
-### Python Developer Intern — CodeSprint Technologies
+### 🐍 Python Developer Intern — CodeSprint Technologies
 
 📅 June 2024 – August 2024
 
 - Developed Python scripts for automation and practical programming tasks.
 - Worked with Python libraries and data analysis workflows.
-- Strengthened problem-solving and software development skills.
+- Improved problem-solving and software development skills.
+- Gained practical exposure to Python development.
 
-### IBM SkillsBuild Summer Internship
+### 📊 IBM SkillsBuild Summer Internship
 
-📅 June – August 2024
+📅 June 2024 – August 2024
 
-- Participated in learning activities involving IoT and data analytics.
-- Explored data-driven problem-solving and technical concepts.
-- Gained exposure to practical technology applications.
+- Participated in technical learning activities involving IoT and Data Analytics.
+- Explored data-driven problem-solving approaches.
+- Developed an understanding of practical technology applications.
+- Strengthened technical and analytical skills.
 
 ---
 
 ## 🏆 Achievements & Leadership
 
 - 🥇 **1st Consolation Prize (Rank 4)** — Tantragyan 2026 National-Level Project Competition for TrashBot.
-- 🏅 Received a letter of appreciation for contributions to the LTCE Computer Department Website Project.
+- 🏅 Received a Letter of Appreciation for contributions to the LTCE Computer Department Website Project.
 - 👨‍💼 Served as **Secretary of the Coding Club at LTCE (2024–2025)**.
 - 🤝 Participated in collaborative technical projects and peer learning activities.
+- 💡 Worked on interdisciplinary projects involving AI, IoT, robotics, and software development.
 
 ---
 
 ## 📜 Certifications
 
-- Data Analytics — IBM SkillsBuild CSRBOX
-- Python Programming, Artificial Intelligence & SAP Conversational AI Chatbot — Edunet Foundation
-- Full Stack Developer — Bharat Intern
-- Python Certificate — Talent Battle (2025)
+- 📊 Data Analytics — IBM SkillsBuild CSRBOX
+- 🐍 Python Programming — Edunet Foundation
+- 🤖 Artificial Intelligence & SAP Conversational AI Chatbot — Edunet Foundation
+- 🌐 Full Stack Developer — Bharat Intern
+- 💻 Python Certificate — Talent Battle (2025)
 
 ---
 
@@ -200,7 +263,7 @@ Contributed to the development of the college Computer Department website, inclu
 
 ## 🤝 Let's Connect
 
-I'm always interested in connecting with developers, collaborating on meaningful projects, and exploring opportunities in AI engineering and software development.
+I'm always interested in connecting with developers, collaborating on meaningful projects, learning emerging technologies, and exploring opportunities in AI Engineering, Python Development, and Full Stack Software Development.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vaibhav-pratap-mishra-b417ab2b6/">
